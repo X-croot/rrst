@@ -22,7 +22,7 @@ use indicatif::{ProgressBar, ProgressStyle};
 
 #[derive(Parser, Debug)]
 #[command(
-author = "FloodTool Devs",
+author = "FloodTool Devs Xcroot",
 version = "1.0.0",
 about = "High-performance HTTP/2 flood tester with TLS and custom request options",
 long_about = "A high-performance, customizable HTTP/2 flood testing tool. Supports TLS, randomized headers and paths, rate limiting, and concurrency."
